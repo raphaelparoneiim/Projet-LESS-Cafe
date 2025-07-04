@@ -50,20 +50,4 @@ Ce site met en avant un café fictif local à travers un design épuré et une s
 
 ---
 
-## 📸 Images utilisées
-
-- **Logo café** : ![logo](https://cdn-icons-png.flaticon.com/512/2974/2974954.png)  
-  Source : [Flaticon](https://cdn-icons-png.flaticon.com/512/2974/2974954.png)
-
-- **Photo d’ambiance du café** :  
-  ![café ambiance](https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1000&q=80)
-
-- **Tasse de café** :  
-  ![tasse de café](https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1000&q=80)
-
-- **Cookie / gâteau** :  
-  ![cookie](https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=1000&q=80)
-
----
-
 Merci pour votre visite, et bonne dégustation de ce projet vitrine ! 
